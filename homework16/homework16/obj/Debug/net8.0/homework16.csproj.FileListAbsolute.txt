@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\academy\HW\homework16\homework16\bin\Debug\net8.0\homework16.exe
+C:\Users\User\Desktop\academy\HW\homework16\homework16\bin\Debug\net8.0\homework16.deps.json
+C:\Users\User\Desktop\academy\HW\homework16\homework16\bin\Debug\net8.0\homework16.runtimeconfig.json
+C:\Users\User\Desktop\academy\HW\homework16\homework16\bin\Debug\net8.0\homework16.dll
+C:\Users\User\Desktop\academy\HW\homework16\homework16\bin\Debug\net8.0\homework16.pdb
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.AssemblyInfo.cs
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.dll
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\refint\homework16.dll
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.pdb
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\homework16.genruntimeconfig.cache
+C:\Users\User\Desktop\academy\HW\homework16\homework16\obj\Debug\net8.0\ref\homework16.dll
